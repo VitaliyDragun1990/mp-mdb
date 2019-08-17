@@ -6,7 +6,7 @@
 	<parent>
 		<artifactId>myphotos-mdb</artifactId>
 		<groupId>com.revenat</groupId>
-		<version>1.00</version>
+		<version>1.0</version>
 	</parent>
 
 	<artifactId>myphotos-mdb-ear</artifactId>
@@ -54,7 +54,7 @@
 		<dependency>
 			<groupId>com.revenat</groupId>
 			<artifactId>myphotos-mdb-ejb</artifactId>
-			<version>1.00</version>
+			<version>1.0</version>
 			<type>ejb</type>
 		</dependency>
 	</dependencies>
